@@ -1,4 +1,4 @@
-#  Mini Katalog Uygulaması
+﻿#  Mini Katalog Uygulaması
 
 Flutter ile geliştirilmiş, eğitim amaçlı bir ürün kataloğu mobil uygulaması.
 
@@ -95,3 +95,17 @@ Bu proje aşağıdaki Flutter konularını kapsamaktadır:
 
 **[Ensar Şencan]**  
 Flutter Projesi
+
+## 📸 Ekran Görüntüleri
+
+| Ana Sayfa | Ürün Detayı |
+|-----------|-------------|
+| ![Ana Sayfa](screenshots/Ekran%20görüntüsü%202026-03-14%20055100.png) | ![Ürün Detayı](screenshots/Ekran%20görüntüsü%202026-03-14%20055121.png) |
+
+| Sepet Dolu | Sepet Boş |
+|-----------|-------------|
+| ![Sepet Dolu](screenshots/Ekran%20görüntüsü%202026-03-14%20055140.png) | ![Sepet Boş](screenshots/Ekran%20görüntüsü%202026-03-14%20055148.png) |
+
+| Ürün Listesi |
+|-------------|
+| ![Ürün Listesi](screenshots/Ekran%20görüntüsü%202026-03-14%20055153.png) |
