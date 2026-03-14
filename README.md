@@ -104,8 +104,8 @@ Flutter Projesi
 
 | Sepet Dolu | Sepet Boş |
 |-----------|-------------|
-| ![Sepet Dolu](screenshots/Ekran%20görüntüsü%202026-03-14%20055140.png) | ![Sepet Boş](screenshots/Ekran%20görüntüsü%202026-03-14%20055148.png) |
+| ![Sepet Dolu](screenshots/Ekran%20görüntüsü%202026-03-14%20055140.png) | ![Sepet Boş](screenshots/Ekran%20görüntüsü%202026-03-14%20055153.png) |
 
-| Ürün Listesi |
+| Siphariş Tamamlama |
 |-------------|
-| ![Ürün Listesi](screenshots/Ekran%20görüntüsü%202026-03-14%20055153.png) |
+| ![Ürün Listesi](screenshots/Ekran%20görüntüsü%202026-03-14%20055148.png) |
