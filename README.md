@@ -1,23 +1,23 @@
-# 🛍️ Mini Katalog Uygulaması
+#  Mini Katalog Uygulaması
 
 Flutter ile geliştirilmiş, eğitim amaçlı bir ürün kataloğu mobil uygulaması.
 
-## 📱 Ekranlar
+##  Ekranlar
 
 | Ana Sayfa | Ürün Detayı | Sepet |
 |-----------|-------------|-------|
 | Ürün listesi, arama, kategori filtresi | Tam açıklama, özellikler, sepet butonu | Miktar kontrolü, toplam fiyat, sipariş |
 
-## ✨ Özellikler
+##  Özellikler
 
-- 🔍 **Arama**: Ürün adı ve açıklamasına göre anlık arama
-- 🏷️ **Kategori Filtresi**: Kategoriye göre filtreleme
-- 🛒 **Sepet Yönetimi**: Ürün ekle/çıkar, miktar artır/azalt
-- 📡 **API Entegrasyonu**: wantapi.com'dan gerçek veri çekimi (offline fallback destekli)
-- 🔄 **Pull to Refresh**: Listeyi yenilemek için aşağı çek
-- 📱 **Material 3 UI**: Modern tasarım dili
+-  **Arama**: Ürün adı ve açıklamasına göre anlık arama
+-  **Kategori Filtresi**: Kategoriye göre filtreleme
+-  **Sepet Yönetimi**: Ürün ekle/çıkar, miktar artır/azalt
+-  **API Entegrasyonu**: wantapi.com'dan gerçek veri çekimi (offline fallback destekli)
+-  **Pull to Refresh**: Listeyi yenilemek için aşağı çek
+-  **Material 3 UI**: Modern tasarım dili
 
-## 🗂️ Proje Yapısı
+##  Proje Yapısı
 
 ```
 lib/
@@ -43,7 +43,7 @@ lib/
   - `http: ^1.1.0` — API istekleri
   - `cached_network_image: ^3.3.0` — Görsel önbellekleme
 
-## 🚀 Çalıştırma Adımları
+##  Çalıştırma Adımları
 
 ### Gereksinimler
 - Flutter SDK (3.0.0 veya üzeri)
@@ -79,19 +79,19 @@ APK dosyası: `build/app/outputs/flutter-apk/app-release.apk`
 
 Bu proje aşağıdaki Flutter konularını kapsamaktadır:
 
-- ✅ Stateless & Stateful Widget
-- ✅ Widget ağacı ve setState()
-- ✅ Navigator.push / pop ile sayfa geçişleri
-- ✅ Route Arguments (constructor ile veri taşıma)
-- ✅ GridView.builder ve ListView.builder
-- ✅ JSON veri modeli (fromJson / toJson)
-- ✅ HTTP ile API isteği (http paketi)
-- ✅ CustomScrollView + SliverAppBar
-- ✅ Arama ve filtreleme mantığı
-- ✅ Basit state yönetimi (sepet simülasyonu)
-- ✅ Asset yönetimi
+-  Stateless & Stateful Widget
+-  Widget ağacı ve setState()
+-  Navigator.push / pop ile sayfa geçişleri
+-  Route Arguments (constructor ile veri taşıma)
+-  GridView.builder ve ListView.builder
+-  JSON veri modeli (fromJson / toJson)
+-  HTTP ile API isteği (http paketi)
+-  CustomScrollView + SliverAppBar
+-  Arama ve filtreleme mantığı
+-  Basit state yönetimi (sepet simülasyonu)
+-  Asset yönetimi
 
-## 👨‍💻 Geliştirici
+##  Geliştirici
 
-**[Adın Soyadın]**  
-Flutter Günlük Eğitim Projesi
+**[Ensar Şencan]**  
+Flutter Projesi
